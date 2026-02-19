@@ -1,0 +1,5 @@
+[
+    {"productName": "sticker", "price": 5, "tier": "Bronze" },
+    {"productName": "$1-$2 snack", "price": 10, "tier":"Silver"},
+    {"productName":"Starbuck's drink", "price": 25, "tier": "Gold"}
+]
